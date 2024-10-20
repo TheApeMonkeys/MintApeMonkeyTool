@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.0"
+  }
+}
